@@ -1,6 +1,6 @@
 # create-react-app-prod-express-server
 
-## Basic create-react-app module + express servver for backend for future boiler plate
+## Basic create-react-app module + express server backend boiler plate for future projects
 
 1. Create a new folder (mkdir folder_name)
 2. Initialize package.json  ( npm init -y )
